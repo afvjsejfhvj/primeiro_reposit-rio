@@ -6,6 +6,6 @@
 </head>
 <body>
    <h1>Bem-vindo ao afvjsejfhvj </h1> 
-   <p>Essa é uma pagina para dar boas vindas </p>
+   <p>Essa é uma pagina</p>
 </body>
 </html>
