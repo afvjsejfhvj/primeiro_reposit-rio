@@ -7,15 +7,5 @@
 <body>
    <h1>Bem-vindo ao afvjsejfhvj </h1> 
    <p>Essa é uma pagina para dar boas vindas </p>
-   <p>blablabla</p>
 </body>
 </html>
-{
-  "recommendations": [
-    "streetsidesoftware.code-spell-checker",
-    "hashicorp.hcl",
-    "davidanson.vscode-markdownlint",
-    "ms-vscode.powershell",
-    "timonwong.shellcheck"
-  ]
-}
